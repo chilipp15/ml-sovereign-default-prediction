@@ -6,8 +6,8 @@
 
 ### Dataset Source
 - **Dataset Link:**
-- IMF: [https://data.imf.org/en]
-- Monthly default and restructuring database by Asonuma and Trebesch (2016, JEEA): [https://sites.google.com/site/christophtrebesch/data] 
+- IMF: https://data.imf.org/en
+- Monthly default and restructuring database by Asonuma and Trebesch (2016, JEEA): https://sites.google.com/site/christophtrebesch/data
 
 
 
