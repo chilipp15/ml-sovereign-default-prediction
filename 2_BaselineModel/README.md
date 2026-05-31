@@ -10,11 +10,11 @@
 
 ### Model Performance
 - **Evaluation Metric:** [e.g., Accuracy, F1-Score, Precision, Recall, MSE, MAE, R², etc.]
-- **Performance Score:** [e.g., 85% accuracy, F1-score of 0.78, MSE of 0.15]
+- **Performance Score:** Classical Synthetic Control (Abadie): Pre-R² target 0.70–0.92. XGBoost baseline: to be determined after full pipeline execution.
 - **Cross-Validation Score:** [Mean and standard deviation of CV scores, e.g., 0.82 ± 0.03]
 
 ### Evaluation Methodology
-- **Data Split:** [Train/Validation/Test split ratios, e.g., 70/15/15]
+- **Data Split:** Temporal split: Train 1975–2009, Gap 2010 (12-month buffer to prevent leakage from 12-month lag features), Test 2011–2020
 - **Evaluation Metrics:** [List all metrics used and justify why they are appropriate for this problem]
 
 ### Metric Practical Relevance
