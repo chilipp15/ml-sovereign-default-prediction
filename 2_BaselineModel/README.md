@@ -5,8 +5,8 @@
 ## Baseline Model Results
 
 ### Model Selection
-- **Baseline Model Type:** [Random Forest or Ridge Regression for Clustering and XGBoost for Prediction]
-- **Rationale:** [Use of best fitting method for clustering and creating best synthetic twins. XGBoost is planned to be used for the prediction of default]
+- **Baseline Model Type:** Random Forest or Ridge Regression for Clustering and XGBoost for Prediction
+- **Rationale:** Use of best fitting method for clustering and creating best synthetic twins. XGBoost is planned to be used for the prediction of default.
 
 ### Model Performance
 - **Evaluation Metric:** [e.g., Accuracy, F1-Score, Precision, Recall, MSE, MAE, R², etc.]
