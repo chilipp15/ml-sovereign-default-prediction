@@ -25,9 +25,9 @@ Binary Classification (Sovereign Default Prediction) with Causal Inference (Synt
 
 #### Key Insights (what I hope for)
 - **Most Important Features:** DEBT_GDP, gs10_change_12, gs10_x_debt_gdp (interaction term: GS10 × Debt/GDP), tau_cumul (cumulative Synthetic Control treatment effect), debt_gdp_change
-- **Model Strengths:** Captures the non-linear interaction between rising US interest rates and high debt-to-GDP ratios as a default predictor. The Synthetic Control component provides a causal interpretation of the treatment effect τ, distinguishing countries that deviate significantly from their counterfactual path
-- **Model Limitations:** Debt/GDP data coverage is 64.7%, limiting the donor pool quality for some countries. The GS10 change variables are not perfectly exogenous shocks (no AR-residual purification), so τ should be interpreted as a predictive rather than strictly causal effect. Countries with fewer than 12 months of pre-default data are excluded.
-- **Business Impact:** Early warning system for sovereign defaults: identifies countries whose debt trajectory deviates significantly from their synthetic counterfactual after GS10 increases. Relevant for sovereign bond investors, IMF/World Bank early warning systems, and policymakers in emerging markets.
+- **Model Strengths:** []
+- **Model Limitations:** Debt/GDP data coverage is 64.7%, limiting the donor pool quality for some countries.
+- **Business Impact:** Early warning system for sovereign defaults: identifies countries whose debt trajectory deviates significantly from their synthetic counterfactual. Relevant for sovereign bond investors, IMF/World Bank early warning systems, and policymakers in emerging markets.
 
 ## Documentation
 
