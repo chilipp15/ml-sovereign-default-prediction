@@ -5,7 +5,7 @@
 [https://github.com/chilipp15/ml-sovereign-default-prediction]
 
 ## Description
-This project predicts sovereign debt defaults using a novel combination of Synthetic Control methods and Machine Learning. The causal question is: how much does a country’s debt-to-GDP ratio increase after an exogenous rise in US interest rates (GS10), and how does this increase the probability of sovereign default?
+This project predicts sovereign debt defaults using a novel combination of Synthetic Control methods and Machine Learning. Synthetic twins are generated on country-time-specific features. Using residuals aims to identify at what point countries behave differently compared to their synthetic twin. This might be useful as an early warning indicator for default. The early warning indicator is then used to predict sovereign default in a XGBoost estimation
 
 ### Task Type
 
