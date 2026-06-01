@@ -5,8 +5,8 @@
 ## Baseline Model Results
 
 ### Model Selection
-- **Baseline Model Type:** Random Forest or Ridge Regression for Clustering and XGBoost for Prediction
-- **Rationale:** Use of best fitting method for clustering and creating best synthetic twins. XGBoost is planned to be used for the prediction of default.
+- **Baseline Model Type:** Synthetic Controls for Clustering and XGBoost for Prediction
+- **Rationale:** Creating synthetic twins using approach of Abadie (2003). Estimation of residuals to identify when countries behave differently compared to similar countries. XGBoost is used for the prediction of default using the early warning indicator.
 
 ### Model Performance
 - **Evaluation Metric:** [e.g., Accuracy, F1-Score, Precision, Recall, MSE, MAE, R², etc.]
