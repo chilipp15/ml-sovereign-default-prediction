@@ -162,7 +162,7 @@ as **Tier 1** in the Two-Tier XGBoost architecture:
 
 This design combines the **interpretability** of a linear model
 with the **flexibility** of gradient boosting, following the
-Two-Tier approach of Tellimer (2024) and Petropoulos et al. (2022).
+Two-Tier approach of Tellimer (2024).
 
 ---
 
