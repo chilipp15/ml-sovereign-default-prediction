@@ -1,3 +1,5 @@
+**[Notebook](predict_sovereign_default_analysis_baseline.ipynb)**
+
 # Baseline Logit Model
 
 This document describes the logistic regression baseline used as
