@@ -187,4 +187,4 @@ provides both causal interpretability and competitive predictive performance.
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](CoverImage/cover_image_pred_def.png)
