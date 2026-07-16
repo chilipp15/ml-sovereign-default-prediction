@@ -1,4 +1,4 @@
-**[Notebook](model_definition_evaluation)**
+**[Notebook](predict_sovereign_default_analysis_model.ipynb)**
 
 # XGBoost Full Model & Causal Analysis
 
