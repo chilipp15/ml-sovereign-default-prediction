@@ -1,4 +1,7 @@
 # Presentation
 
-**[Slides](./sovereigndefaultprediction-Philipp Wetter.pptx)**
+**[Slides](sovereigndefaultprediction-Philipp Wetter.pptx)**
 
+# Presentation
+
+**[Slides](./sovereigndefaultprediction-Philipp-Wetter.pptx)**
