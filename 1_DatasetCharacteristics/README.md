@@ -152,11 +152,7 @@ notebook code.
 ---
 
 ## References
-
-- **Asonuma, T. & Trebesch, C. (2016).** "Sovereign Debt Restructurings:
-  Preemptive or Post-Default." *Journal of the European Economic
-  Association*, 14(1), 175–214.
-  [SSRN](https://ssrn.com/abstract=2694914)
+- **Asonuma, Tamon and Christoph Trebesch (2016).** "Sovereign Debt Restructurings: Preemptive or Post-Default", Journal of the European Economic Association Vol 15(1), Pages 175-214
 
 - **IMF Global Debt Database (GDD).**
   [imf.org/external/datamapper](https://www.imf.org/external/datamapper/datasets/GDD)
